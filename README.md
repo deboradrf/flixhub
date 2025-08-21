@@ -1,16 +1,19 @@
-<<<<<<< HEAD
-# React + Vite
+<h1 align="center">Traveler</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green?style=plastic">
+  <img src="https://img.shields.io/github/stars/deboradrf?style=social">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 📚 Descrição
+Projeto desenvolvido para fixação de conteúdo, que simula uma página inicial para compra de pacotes de viagens.
 
-Currently, two official plugins are available:
+### 🎨 Layout
+<img src="https://github.com/user-attachments/assets/242af1f9-0c71-4ff0-bfcf-55fd3195cc1b" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ✔️ Tecnologias utilizadas
+- Visual Studio Code
+- React + Vite
+- LocalStorage
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# flixhub
->>>>>>> f02245e6c1c341a4cf452d19c801f297e91cf834
+### 📁 Acesso ao projeto
+Hospedado no Netlify `https://flixhub-deboradrf.netlify.app/`
