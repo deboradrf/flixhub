@@ -1,4 +1,4 @@
-<h1 align="center">Traveler</h1>
+<h1 align="center">FlixHub</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green?style=plastic">
   <img src="https://img.shields.io/github/stars/deboradrf?style=social">
